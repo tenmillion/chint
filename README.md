@@ -1,0 +1,4 @@
+chint
+=====
+
+Cholinergic interneuron models
